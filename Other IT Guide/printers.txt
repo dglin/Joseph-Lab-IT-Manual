@@ -12,6 +12,11 @@ OFFICE
 	network name: dss-ant-young-309-c
 	port: 128.120.226.145
 	note: can scan to email
+	instruction to scan 
+	1. Put paper to be scan under the printer cover 
+	2. Select scan
+	3. Select scan to email
+	4. Enter email
 	
 	HP LaserJet 600 M601
 	network name: dss-ant-young-309-b
