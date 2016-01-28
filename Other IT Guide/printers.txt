@@ -8,4 +8,24 @@ HOME
 	Canon Prixma Mark II
 
 OFFICE
-	Dell
+	Dell 
+	network name: dss-ant-young-309-c
+	port: 128.120.226.145
+	note: can scan to email
+	
+	HP LaserJet 600 M601
+	network name: dss-ant-young-309-b
+	port: 128.120.226.46
+	note: may not work on some computers in the lab
+	solution: install a local version of the printer, not network
+	instruction on installing local printer: 
+	1. press the window circle and click "Device and Printers"
+	2. press "Add a printer" on top
+	3. press "Add a local printer"
+	4. select "use existing port"
+	5. follow the instructions to install the printer.
+	6. if printer does not work, try restart the spooler.
+	instruction on restarting spooler
+	1. press the window circle and search for "Services" and click on it
+	2. find "Printer Spooler" and make sure status is "Started" and Startup Type is "Automatic"
+	3. once settings are changed, click on the appropriate icons on top to restart the spooler
